@@ -1,0 +1,39 @@
+h1{
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+	font-size: 12px;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+p{
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+	font-size: 13px;
+}
+
+.fa{
+	font-size: 65px;
+	/*tamaño íconos*/
+}
+
+.fa:hover{
+	font-size: 85px;
+	color: #C5CDE5;
+	cursor: pointer;
+}
+
+div{
+	display: inline-block;
+	width: 200px;
+	/*ancho*/
+	height: 300px;
+	/*alto*/
+	background-color: #FBFBFB;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	color: #949496;
+}
